@@ -7,7 +7,7 @@ A imersão tem duração de 7 dias, e o progresso de cada dia está armazenado n
 - Dia 1: Nav bar lateral + challenge 'Sua biblioteca'
 - Dia 2: Sessão 'Sua biblioteca' da Nav bar + challenge rodapé
 - Dia 3: Main content (header) + challenge playlist
-- Dia 4:
+- Dia 4: CSS Grid + Javascript + Artists API
 - Dia 5:
 
 ## Requisitos para execução
